@@ -25,7 +25,6 @@ Customization
 -------------
 
 - To scrape a different number of pages, modify the range in the `for` loop (`for page_number in range(1, 11)`).
-- To change the target URL, update the `skapiec_url` variable.
 - If the CSS class for eShop URLs changes, adjust the `class_` parameter in the `find_all` method accordingly.
 
 
