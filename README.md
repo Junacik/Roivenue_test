@@ -10,7 +10,7 @@ Prerequisites
 - `requests` library
 - `beautifulsoup4` library
 
-Install the required libraries using the command.
+Install the required libraries for using this command.
 
 Usage
 -----
