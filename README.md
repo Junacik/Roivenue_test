@@ -19,7 +19,7 @@ Usage
 2. Open the script in a Python editor or IDE.
 3. Run the script.
 
-The script will scrape the specified number of pages from Skapiec.pl and save the unique eShop URLs along with their corresponding page numbers to a file named `eshop_urls.txt` in the same directory as the script.
+The script will scrape the specified number of pages from `https://www.skapiec.pl/ogrod.html` and save the unique eShop URLs along with their corresponding page numbers to a file named `eshop_urls.txt` in the same directory as the script.
 
 Customization
 -------------
